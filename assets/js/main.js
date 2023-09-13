@@ -136,7 +136,7 @@
   function setIconActive() {
     let navbarToggle = select('.mobile-nav-toggle');
     navbarToggle.classList.add('active');
-    navbarToggle.style.color = 'blue'; // Atur warna ikon menjadi biru saat aktif
+    navbarToggle.style.color = '#ff7000'; // Atur warna ikon menjadi biru saat aktif
   }
   
   // Fungsi untuk menghapus kelas "active" dari ikon
